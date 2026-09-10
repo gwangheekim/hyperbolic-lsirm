@@ -1,0 +1,135 @@
+"row","disease_id","disease","annotations","profiles","retention_distance","retention_gromov","common_distance","common_gromov","mean_overlap"
+3,"OMIM:105550","Amyotrophic lateral sclerosis and/or frontotemporal dementia 1",13,13,0.933333333333333,0.933333333333333,9,9,9
+4,"OMIM:109150","Machado-Joseph disease",11,11,1,1,10,10,9
+6,"OMIM:117360","Spinocerebellar ataxia 29, congenital nonprogressive",71,70,1,0.933333333333333,10,9,5.66666666666667
+7,"OMIM:125370","Dentatorubral-pallidoluysian atrophy",10,10,1,1,10,10,10
+8,"OMIM:133190","Spinocerebellar ataxia 34",13,13,0.933333333333333,0.933333333333333,9,9,8.66666666666667
+9,"OMIM:164400","Spinocerebellar ataxia 1",22,22,0.933333333333333,0.8,9,7,6.66666666666667
+10,"OMIM:164500","Spinocerebellar ataxia 7",18,18,0.8,0.866666666666667,7,8,6
+11,"OMIM:167320","Inclusion body myopathy with early-onset paget disease with or without frontotemporal dementia 1",12,12,0.933333333333333,1,9,10,8.66666666666667
+13,"OMIM:183086","Spinocerebellar ataxia 6",14,14,1,1,10,10,10
+14,"OMIM:183090","Spinocerebellar ataxia 2",10,10,1,1,10,10,10
+15,"OMIM:193003","Nystagmus 4, congenital, autosomal dominant",10,10,1,1,10,10,10
+16,"OMIM:200150","Choreoacanthocytosis",21,21,0.933333333333333,1,9,10,8.33333333333333
+17,"OMIM:234200","Neurodegeneration with brain iron accumulation 1",33,33,0.866666666666667,0.866666666666667,8,8,6.33333333333333
+18,"OMIM:241080","Woodhouse-Sakati syndrome",12,12,0.933333333333333,0.866666666666667,9,8,8.33333333333333
+19,"OMIM:249900","Metachromatic leukodystrophy due to saposin B deficiency",12,12,0.933333333333333,0.933333333333333,9,9,10
+21,"OMIM:256600","Neurodegeneration with brain iron accumulation 2A",14,14,0.933333333333333,1,9,10,9
+22,"OMIM:300100","Adrenoleukodystrophy",21,21,0.866666666666667,1,8,10,9
+23,"OMIM:300842","Mcleod syndrome",14,14,1,1,10,10,10
+24,"OMIM:300894","Neurodegeneration with brain iron accumulation 5",25,25,1,1,10,10,7
+26,"OMIM:600224","Spinocerebellar ataxia 5",17,17,1,1,10,10,9
+29,"OMIM:601338","Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss",27,27,0.866666666666667,0.733333333333333,8,6,5.33333333333333
+31,"OMIM:603472","Neuronal intranuclear inclusion disease",14,14,0.933333333333333,0.933333333333333,9,9,8.66666666666667
+32,"OMIM:603516","Spinocerebellar ataxia 10",11,11,1,1,10,10,10
+33,"OMIM:604121","Cerebellar ataxia, deafness, and narcolepsy, autosomal dominant",11,11,0.933333333333333,0.9,9,8,9.33333333333333
+34,"OMIM:604432","Spinocerebellar ataxia 11",10,10,1,1,10,10,10
+36,"OMIM:605259","Spinocerebellar ataxia 13",13,13,0.933333333333333,1,9,10,8.66666666666667
+37,"OMIM:606159","Neurodegeneration with brain iron accumulation 3",10,10,1,1,10,10,10
+38,"OMIM:606658","Spinocerebellar ataxia 15",25,25,0.866666666666667,0.8,8,7,7
+39,"OMIM:606693","Kufor-Rakeb syndrome",23,23,0.833333333333333,0.933333333333333,8,9,8.66666666666667
+40,"OMIM:606889","Alzheimer disease 4",13,13,1,1,10,10,9
+43,"OMIM:607454","Spinocerebellar ataxia 21",18,18,0.933333333333333,0.933333333333333,9,9,9.33333333333333
+47,"OMIM:608703","Spinocerebellar ataxia 25",16,16,1,1,10,10,8
+50,"OMIM:610245","Spinocerebellar ataxia 23",14,14,0.933333333333333,1,9,10,9.66666666666667
+51,"OMIM:610246","Spinocerebellar ataxia 28",15,15,0.933333333333333,0.933333333333333,9,9,9.33333333333333
+52,"OMIM:612069","Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia",12,12,1,0.933333333333333,10,9,9
+53,"OMIM:612953","Parkinson disease 14, autosomal recessive",31,31,0.933333333333333,0.866666666666667,9,8,9
+55,"OMIM:613908","Spinocerebellar ataxia 35",13,13,0.933333333333333,1,9,10,8.66666666666667
+57,"OMIM:613954","Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",21,21,0.8,0.933333333333333,7,9,7.66666666666667
+58,"OMIM:614116","Neuropathy, hereditary sensory, type IE",13,13,0.933333333333333,0.8,9,7,8.33333333333333
+59,"OMIM:614153","Spinocerebellar ataxia 36",22,22,0.933333333333333,1,9,10,8
+60,"OMIM:614298","Neurodegeneration with brain iron accumulation 4",33,33,1,0.8,10,7,5.33333333333333
+61,"OMIM:614756","Cerebellar dysfunction with variable cognitive and behavioral abnormalities",27,27,1,1,10,10,9
+63,"OMIM:615422","Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2",10,10,1,1,10,10,10
+65,"OMIM:615643","Neurodegeneration with brain iron accumulation 6",20,20,0.933333333333333,0.866666666666667,9,8,8.33333333333333
+66,"OMIM:615911","Frontotemporal dementia and/or amyotrophic lateral sclerosis 2",17,17,0.933333333333333,0.866666666666667,9,8,7.66666666666667
+68,"OMIM:615957","Spinocerebellar ataxia 38",12,12,0.933333333333333,1,9,10,9.66666666666667
+69,"OMIM:616053","Spinocerebellar ataxia 40",13,13,0.9,0.933333333333333,9,9,9
+71,"OMIM:616437","Frontotemporal dementia and/or amyotrophic lateral sclerosis 3",17,17,1,1,10,10,10
+72,"OMIM:616439","Frontotemporal dementia and/or amyotrophic lateral sclerosis 4",17,17,1,1,10,10,10
+73,"OMIM:616795","Spinocerebellar ataxia 42",18,18,0.866666666666667,0.8,8,7,7
+74,"OMIM:617018","Spinocerebellar ataxia 43",16,16,0.933333333333333,1,9,10,8.66666666666667
+75,"OMIM:617691","Spinocerebellar ataxia 44",13,13,1,1,10,10,9
+78,"OMIM:617916","Neurodegeneration with brain iron accumulation 7",22,22,0.933333333333333,0.866666666666667,9,8,8.66666666666667
+79,"OMIM:617917","Neurodegeneration with brain iron accumulation 8",12,12,0.933333333333333,1,9,10,9
+80,"OMIM:618087","Spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits",19,18,0.933333333333333,1,9,10,9
+81,"OMIM:618093","Spinocerebellar ataxia 48",18,18,1,0.933333333333333,10,9,9.33333333333333
+82,"OMIM:619733","Inclusion body myopathy and brain white matter abnormalities",13,13,1,0.933333333333333,10,9,9
+83,"OMIM:619806","Spinocerebellar ataxia 49",16,16,0.933333333333333,0.933333333333333,9,9,9
+84,"OMIM:620158","Spinocerebellar ataxia 50",14,14,0.933333333333333,0.9,9,8,8.66666666666667
+86,"OMIM:620669","Neurodegeneration with brain iron accumulation 9",23,23,1,1,10,10,9
+87,"OMIM:620719","Neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism",21,21,0.933333333333333,1,9,10,8
+88,"OMIM:620947","Spinocerebellar ataxia 51",11,11,1,1,10,10,10
+89,"OMIM:621535","Spinocerebellar ataxia 52",53,53,0.8,0.733333333333333,7,6,5
+91,"Orphanet:100070","Progressive non-fluent aphasia",21,21,1,0.933333333333333,10,9,8.66666666666667
+92,"Orphanet:101","Dentatorubral pallidoluysian atrophy",24,24,0.933333333333333,1,9,10,9
+93,"Orphanet:101108","Spinocerebellar ataxia type 23",10,10,1,1,10,10,10
+94,"Orphanet:101109","Spinocerebellar ataxia type 28",20,20,0.933333333333333,1,9,10,8.66666666666667
+95,"Orphanet:101110","Spinocerebellar ataxia type 20",17,17,0.933333333333333,0.933333333333333,9,9,7.66666666666667
+96,"Orphanet:101111","Spinocerebellar ataxia type 25",16,16,0.866666666666667,0.933333333333333,8,9,8.66666666666667
+98,"Orphanet:1020","Early-onset autosomal dominant Alzheimer disease",20,20,0.933333333333333,1,9,10,8.66666666666667
+99,"Orphanet:1171","Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",12,12,1,1,10,10,8
+100,"Orphanet:139396","X-linked cerebral adrenoleukodystrophy",34,34,0.666666666666667,0.866666666666667,5,8,5
+101,"Orphanet:139399","Adrenomyeloneuropathy",20,20,0.866666666666667,0.933333333333333,8,9,8
+102,"Orphanet:157846","Neuroferritinopathy",31,31,0.833333333333333,0.933333333333333,8,9,6
+103,"Orphanet:157850","Pantothenate kinase-associated neurodegeneration",38,38,0.866666666666667,0.933333333333333,8,9,4.66666666666667
+104,"Orphanet:157946","Huntington disease-like 3",16,16,0.933333333333333,0.933333333333333,9,9,6.33333333333333
+106,"Orphanet:199351","Adult-onset dystonia-parkinsonism",28,28,0.933333333333333,0.933333333333333,9,9,8
+107,"Orphanet:208513","Spinocerebellar ataxia type 29",18,17,0.933333333333333,0.933333333333333,9,9,9.33333333333333
+109,"Orphanet:216866","Classic pantothenate kinase-associated neurodegeneration",18,18,0.933333333333333,0.933333333333333,9,9,7.66666666666667
+110,"Orphanet:216873","Atypical pantothenate kinase-associated neurodegeneration",28,28,0.833333333333333,0.933333333333333,7,9,7
+111,"Orphanet:217012","Spinocerebellar ataxia type 31",11,11,0.933333333333333,0.933333333333333,9,9,9.33333333333333
+112,"Orphanet:2289","Neuronal intranuclear inclusion disease",13,13,0.933333333333333,0.933333333333333,9,9,9
+113,"Orphanet:2388","Choreoacanthocytosis",53,53,0.866666666666667,1,8,10,6.33333333333333
+114,"Orphanet:275864","Behavioral variant of frontotemporal dementia",29,29,0.933333333333333,1,9,10,9
+115,"Orphanet:275872","Frontotemporal dementia with motor neuron disease",30,30,1,0.933333333333333,10,9,8.33333333333333
+117,"Orphanet:276193","Spinocerebellar ataxia type 35",12,12,1,0.933333333333333,10,9,8.66666666666667
+118,"Orphanet:276198","Spinocerebellar ataxia type 36",24,24,0.933333333333333,0.866666666666667,9,8,5.66666666666667
+119,"Orphanet:276238","Machado-Joseph disease type 1",34,28,1,1,10,10,10
+120,"Orphanet:276241","Machado-Joseph disease type 2",34,28,1,1,10,10,10
+121,"Orphanet:276244","Machado-Joseph disease type 3",36,30,1,1,10,10,10
+122,"Orphanet:289560","Mitochondrial membrane protein-associated neurodegeneration",22,22,0.933333333333333,0.8,9,7,6.33333333333333
+123,"Orphanet:306674","Kufor-Rakeb syndrome",31,31,0.8,0.9,7,9,7.66666666666667
+124,"Orphanet:309256","Metachromatic leukodystrophy, late infantile form",35,32,0.933333333333333,0.933333333333333,9,9,8
+125,"Orphanet:309263","Metachromatic leukodystrophy, juvenile form",35,32,0.933333333333333,0.933333333333333,9,9,8.66666666666667
+126,"Orphanet:309271","Metachromatic leukodystrophy, adult form",42,39,0.866666666666667,0.933333333333333,8,9,8
+127,"Orphanet:314404","Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome",20,20,0.8,0.8,7,7,7.66666666666667
+128,"Orphanet:314632","CLN12 disease",17,17,0.933333333333333,0.933333333333333,9,9,9
+129,"Orphanet:314647","Non-progressive cerebellar ataxia with intellectual disability",20,20,1,1,10,10,10
+130,"Orphanet:329284","Beta-propeller protein-associated neurodegeneration",21,21,1,0.933333333333333,10,9,9.66666666666667
+131,"Orphanet:329308","Fatty acid hydroxylase-associated neurodegeneration",22,22,0.933333333333333,0.933333333333333,9,9,7.66666666666667
+133,"Orphanet:35069","Infantile neuroaxonal dystrophy",41,41,0.866666666666667,0.8,8,7,5.66666666666667
+134,"Orphanet:363710","Spinocerebellar ataxia type 37",15,15,0.866666666666667,0.933333333333333,8,9,8.66666666666667
+135,"Orphanet:397725","COASY protein-associated neurodegeneration",11,11,1,1,10,10,10
+136,"Orphanet:401901","Huntington disease-like syndrome due to C9ORF72 expansions",14,14,0.933333333333333,0.933333333333333,9,9,8.33333333333333
+137,"Orphanet:412066","PRKAR1B-related neurodegenerative dementia with intermediate filaments",16,16,1,1,10,10,9
+138,"Orphanet:423275","Spinocerebellar ataxia type 40",13,13,1,0.933333333333333,10,9,9.33333333333333
+139,"Orphanet:423296","Spinocerebellar ataxia type 38",11,11,1,1,10,10,10
+140,"Orphanet:43","X-linked adrenoleukodystrophy",27,27,0.833333333333333,0.9,7,9,8
+141,"Orphanet:454887","Corticobasal syndrome",18,18,1,0.866666666666667,10,8,8.66666666666667
+143,"Orphanet:458803","Spinocerebellar ataxia type 42",27,27,0.866666666666667,0.866666666666667,8,8,7.33333333333333
+144,"Orphanet:48818","Aceruloplasminemia",21,21,1,1,10,10,9
+146,"Orphanet:496756","Early-onset progressive encephalopathy-spastic ataxia-distal spinal muscular atrophy syndrome",18,18,0.9,0.866666666666667,9,8,7.33333333333333
+147,"Orphanet:497764","Spinocerebellar ataxia type 43",16,16,0.866666666666667,0.933333333333333,8,9,9.66666666666667
+148,"Orphanet:512","Metachromatic leukodystrophy",29,29,0.9,0.933333333333333,9,9,9.33333333333333
+149,"Orphanet:52430","Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",24,24,0.933333333333333,0.933333333333333,9,9,9
+150,"Orphanet:54247","Posterior cortical atrophy",13,13,1,1,10,10,10
+151,"Orphanet:94147","Spinocerebellar ataxia type 7",26,26,0.9,1,9,10,7.33333333333333
+152,"Orphanet:97355","Caribbean parkinsonism",18,18,0.933333333333333,1,9,10,8.33333333333333
+153,"Orphanet:98755","Spinocerebellar ataxia type 1",33,33,1,0.933333333333333,10,9,7
+154,"Orphanet:98756","Spinocerebellar ataxia type 2",19,19,0.866666666666667,0.933333333333333,8,9,8
+155,"Orphanet:98757","Spinocerebellar ataxia type 3",16,13,1,1,10,10,10
+156,"Orphanet:98758","Spinocerebellar ataxia type 6",16,16,0.933333333333333,1,9,10,8
+157,"Orphanet:98759","Spinocerebellar ataxia type 17",17,17,0.933333333333333,0.933333333333333,9,9,9
+158,"Orphanet:98760","Spinocerebellar ataxia type 8",19,19,1,0.933333333333333,10,9,8.66666666666667
+159,"Orphanet:98761","Spinocerebellar ataxia type 10",26,26,0.866666666666667,0.866666666666667,8,8,6.66666666666667
+160,"Orphanet:98762","Spinocerebellar ataxia type 12",18,18,1,1,10,10,9
+161,"Orphanet:98763","Spinocerebellar ataxia type 14",14,14,0.933333333333333,1,9,10,9
+162,"Orphanet:98764","Spinocerebellar ataxia type 27A",18,18,0.866666666666667,0.933333333333333,8,9,8
+163,"Orphanet:98765","Spinocerebellar ataxia type 4",11,11,0.933333333333333,1,9,10,9.33333333333333
+165,"Orphanet:98767","Spinocerebellar ataxia type 11",10,10,1,1,10,10,10
+166,"Orphanet:98768","Spinocerebellar ataxia type 13",29,29,0.933333333333333,0.933333333333333,9,9,8
+168,"Orphanet:98771","Spinocerebellar ataxia type 18",16,16,0.933333333333333,1,9,10,9.66666666666667
+169,"Orphanet:98772","Spinocerebellar ataxia type 19/22",19,19,0.933333333333333,0.8,9,7,7.33333333333333
+170,"Orphanet:98773","Spinocerebellar ataxia type 21",14,14,1,1,10,10,10

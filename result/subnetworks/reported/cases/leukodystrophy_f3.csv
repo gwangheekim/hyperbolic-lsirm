@@ -1,0 +1,7 @@
+"disease","ordering","profile","carriers","chain_ranks","mean_rank","support"
+"Peroxisome biogenesis disorder 1B","distance","Generalized hypotonia",22,"1/1/1",1,0.944777777777778
+"Peroxisome biogenesis disorder 1B","distance","Hepatomegaly",19,"2/2/2",2,0.924111111111111
+"Peroxisome biogenesis disorder 1B","distance","Renal cyst",4,"3/3/3",3,0.863777777777778
+"Peroxisome biogenesis disorder 1B","gromov","Epiphyseal stippling",10,"1/1/1",1,0.999666666666667
+"Peroxisome biogenesis disorder 1B","gromov","Renal cyst",4,"2/2/2",2,0.992777777777778
+"Peroxisome biogenesis disorder 1B","gromov","Wide nasal bridge",6,"3/3/3",3,0.996777777777778

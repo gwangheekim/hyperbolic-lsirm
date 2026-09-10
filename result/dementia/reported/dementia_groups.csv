@@ -1,0 +1,171 @@
+"disease_id","disease_label","group","group_name","annotations"
+"OMIM:606889","Alzheimer disease 4",1,"Alzheimer disease",13
+"OMIM:104300","Alzheimer disease",1,"Alzheimer disease",4
+"OMIM:615080","Alzheimer disease 17, susceptibility to",1,"Alzheimer disease",4
+"OMIM:104310","Alzheimer disease 2",1,"Alzheimer disease",2
+"OMIM:602096","Alzheimer disease 5",1,"Alzheimer disease",1
+"Orphanet:275872","Frontotemporal dementia with motor neuron disease",2,"Frontotemporal degeneration and ALS",30
+"Orphanet:275864","Behavioral variant of frontotemporal dementia",2,"Frontotemporal degeneration and ALS",29
+"Orphanet:52430","Inclusion body myopathy with Paget disease of bone and frontotemporal dementia",2,"Frontotemporal degeneration and ALS",24
+"OMIM:613954","Frontotemporal dementia and/or amyotrophic lateral sclerosis 6",2,"Frontotemporal degeneration and ALS",21
+"Orphanet:100070","Progressive non-fluent aphasia",2,"Frontotemporal degeneration and ALS",21
+"Orphanet:1020","Early-onset autosomal dominant Alzheimer disease",2,"Frontotemporal degeneration and ALS",20
+"OMIM:615911","Frontotemporal dementia and/or amyotrophic lateral sclerosis 2",2,"Frontotemporal degeneration and ALS",17
+"OMIM:616437","Frontotemporal dementia and/or amyotrophic lateral sclerosis 3",2,"Frontotemporal degeneration and ALS",17
+"OMIM:616439","Frontotemporal dementia and/or amyotrophic lateral sclerosis 4",2,"Frontotemporal degeneration and ALS",17
+"Orphanet:412066","PRKAR1B-related neurodegenerative dementia with intermediate filaments",2,"Frontotemporal degeneration and ALS",16
+"OMIM:105550","Amyotrophic lateral sclerosis and/or frontotemporal dementia 1",2,"Frontotemporal degeneration and ALS",13
+"OMIM:619733","Inclusion body myopathy and brain white matter abnormalities",2,"Frontotemporal degeneration and ALS",13
+"Orphanet:54247","Posterior cortical atrophy",2,"Frontotemporal degeneration and ALS",13
+"OMIM:167320","Inclusion body myopathy with early-onset paget disease with or without frontotemporal dementia 1",2,"Frontotemporal degeneration and ALS",12
+"OMIM:612069","Amyotrophic lateral sclerosis 10 with or without frontotemporal dementia",2,"Frontotemporal degeneration and ALS",12
+"OMIM:615422","Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2",2,"Frontotemporal degeneration and ALS",10
+"OMIM:615424","Inclusion body myopathy with early-onset Paget disease without frontotemporal dementia 3",2,"Frontotemporal degeneration and ALS",9
+"Orphanet:100069","Semantic dementia",2,"Frontotemporal degeneration and ALS",7
+"OMIM:600274","Frontotemporal dementia",2,"Frontotemporal degeneration and ALS",5
+"OMIM:608030","Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia",2,"Frontotemporal degeneration and ALS",5
+"OMIM:607485","Frontotemporal lobar degeneration with TDP43 inclusions",2,"Frontotemporal degeneration and ALS",2
+"OMIM:172700","Pick disease of brain",2,"Frontotemporal degeneration and ALS",1
+"Orphanet:2388","Choreoacanthocytosis",3,"Brain-iron and basal-ganglia degeneration",53
+"Orphanet:35069","Infantile neuroaxonal dystrophy",3,"Brain-iron and basal-ganglia degeneration",41
+"Orphanet:157850","Pantothenate kinase-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",38
+"OMIM:234200","Neurodegeneration with brain iron accumulation 1",3,"Brain-iron and basal-ganglia degeneration",33
+"OMIM:614298","Neurodegeneration with brain iron accumulation 4",3,"Brain-iron and basal-ganglia degeneration",33
+"Orphanet:216873","Atypical pantothenate kinase-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",28
+"OMIM:300894","Neurodegeneration with brain iron accumulation 5",3,"Brain-iron and basal-ganglia degeneration",25
+"Orphanet:289560","Mitochondrial membrane protein-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",22
+"Orphanet:329308","Fatty acid hydroxylase-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",22
+"OMIM:200150","Choreoacanthocytosis",3,"Brain-iron and basal-ganglia degeneration",21
+"Orphanet:329284","Beta-propeller protein-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",21
+"OMIM:615643","Neurodegeneration with brain iron accumulation 6",3,"Brain-iron and basal-ganglia degeneration",20
+"OMIM:618093","Spinocerebellar ataxia 48",3,"Brain-iron and basal-ganglia degeneration",18
+"Orphanet:216866","Classic pantothenate kinase-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",18
+"Orphanet:496756","Early-onset progressive encephalopathy-spastic ataxia-distal spinal muscular atrophy syndrome",3,"Brain-iron and basal-ganglia degeneration",18
+"OMIM:256600","Neurodegeneration with brain iron accumulation 2A",3,"Brain-iron and basal-ganglia degeneration",14
+"OMIM:300842","Mcleod syndrome",3,"Brain-iron and basal-ganglia degeneration",14
+"OMIM:241080","Woodhouse-Sakati syndrome",3,"Brain-iron and basal-ganglia degeneration",12
+"Orphanet:1171","Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",3,"Brain-iron and basal-ganglia degeneration",12
+"OMIM:109150","Machado-Joseph disease",3,"Brain-iron and basal-ganglia degeneration",11
+"Orphanet:397725","COASY protein-associated neurodegeneration",3,"Brain-iron and basal-ganglia degeneration",11
+"Orphanet:3464","Woodhouse-Sakati syndrome",3,"Brain-iron and basal-ganglia degeneration",9
+"OMIM:607136","Spinocerebellar ataxia 17",3,"Brain-iron and basal-ganglia degeneration",6
+"OMIM:250100","Metachromatic leukodystrophy",3,"Brain-iron and basal-ganglia degeneration",4
+"OMIM:610217","Neurodegeneration with brain iron accumulation 2B",3,"Brain-iron and basal-ganglia degeneration",4
+"Orphanet:494541","Childhood-onset benign chorea with striatal involvement",3,"Brain-iron and basal-ganglia degeneration",4
+"OMIM:621535","Spinocerebellar ataxia 52",4,"Dominant spinocerebellar ataxia",53
+"Orphanet:98755","Spinocerebellar ataxia type 1",4,"Dominant spinocerebellar ataxia",33
+"Orphanet:98768","Spinocerebellar ataxia type 13",4,"Dominant spinocerebellar ataxia",29
+"Orphanet:458803","Spinocerebellar ataxia type 42",4,"Dominant spinocerebellar ataxia",27
+"Orphanet:98761","Spinocerebellar ataxia type 10",4,"Dominant spinocerebellar ataxia",26
+"OMIM:606658","Spinocerebellar ataxia 15",4,"Dominant spinocerebellar ataxia",25
+"Orphanet:101","Dentatorubral pallidoluysian atrophy",4,"Dominant spinocerebellar ataxia",24
+"Orphanet:276198","Spinocerebellar ataxia type 36",4,"Dominant spinocerebellar ataxia",24
+"OMIM:614153","Spinocerebellar ataxia 36",4,"Dominant spinocerebellar ataxia",22
+"Orphanet:101109","Spinocerebellar ataxia type 28",4,"Dominant spinocerebellar ataxia",20
+"Orphanet:98756","Spinocerebellar ataxia type 2",4,"Dominant spinocerebellar ataxia",19
+"Orphanet:98760","Spinocerebellar ataxia type 8",4,"Dominant spinocerebellar ataxia",19
+"Orphanet:98772","Spinocerebellar ataxia type 19/22",4,"Dominant spinocerebellar ataxia",19
+"OMIM:607454","Spinocerebellar ataxia 21",4,"Dominant spinocerebellar ataxia",18
+"OMIM:616795","Spinocerebellar ataxia 42",4,"Dominant spinocerebellar ataxia",18
+"Orphanet:98762","Spinocerebellar ataxia type 12",4,"Dominant spinocerebellar ataxia",18
+"Orphanet:98764","Spinocerebellar ataxia type 27A",4,"Dominant spinocerebellar ataxia",18
+"Orphanet:101110","Spinocerebellar ataxia type 20",4,"Dominant spinocerebellar ataxia",17
+"OMIM:617018","Spinocerebellar ataxia 43",4,"Dominant spinocerebellar ataxia",16
+"OMIM:619806","Spinocerebellar ataxia 49",4,"Dominant spinocerebellar ataxia",16
+"Orphanet:497764","Spinocerebellar ataxia type 43",4,"Dominant spinocerebellar ataxia",16
+"Orphanet:98758","Spinocerebellar ataxia type 6",4,"Dominant spinocerebellar ataxia",16
+"Orphanet:98771","Spinocerebellar ataxia type 18",4,"Dominant spinocerebellar ataxia",16
+"OMIM:610246","Spinocerebellar ataxia 28",4,"Dominant spinocerebellar ataxia",15
+"Orphanet:363710","Spinocerebellar ataxia type 37",4,"Dominant spinocerebellar ataxia",15
+"OMIM:183086","Spinocerebellar ataxia 6",4,"Dominant spinocerebellar ataxia",14
+"OMIM:610245","Spinocerebellar ataxia 23",4,"Dominant spinocerebellar ataxia",14
+"OMIM:620158","Spinocerebellar ataxia 50",4,"Dominant spinocerebellar ataxia",14
+"Orphanet:98763","Spinocerebellar ataxia type 14",4,"Dominant spinocerebellar ataxia",14
+"Orphanet:98773","Spinocerebellar ataxia type 21",4,"Dominant spinocerebellar ataxia",14
+"OMIM:133190","Spinocerebellar ataxia 34",4,"Dominant spinocerebellar ataxia",13
+"OMIM:605259","Spinocerebellar ataxia 13",4,"Dominant spinocerebellar ataxia",13
+"OMIM:613908","Spinocerebellar ataxia 35",4,"Dominant spinocerebellar ataxia",13
+"OMIM:616053","Spinocerebellar ataxia 40",4,"Dominant spinocerebellar ataxia",13
+"Orphanet:423275","Spinocerebellar ataxia type 40",4,"Dominant spinocerebellar ataxia",13
+"OMIM:615957","Spinocerebellar ataxia 38",4,"Dominant spinocerebellar ataxia",12
+"Orphanet:276193","Spinocerebellar ataxia type 35",4,"Dominant spinocerebellar ataxia",12
+"OMIM:603516","Spinocerebellar ataxia 10",4,"Dominant spinocerebellar ataxia",11
+"OMIM:620947","Spinocerebellar ataxia 51",4,"Dominant spinocerebellar ataxia",11
+"Orphanet:217012","Spinocerebellar ataxia type 31",4,"Dominant spinocerebellar ataxia",11
+"Orphanet:423296","Spinocerebellar ataxia type 38",4,"Dominant spinocerebellar ataxia",11
+"OMIM:183090","Spinocerebellar ataxia 2",4,"Dominant spinocerebellar ataxia",10
+"OMIM:193003","Nystagmus 4, congenital, autosomal dominant",4,"Dominant spinocerebellar ataxia",10
+"OMIM:604432","Spinocerebellar ataxia 11",4,"Dominant spinocerebellar ataxia",10
+"Orphanet:101108","Spinocerebellar ataxia type 23",4,"Dominant spinocerebellar ataxia",10
+"OMIM:608687","Spinocerebellar ataxia 20",4,"Dominant spinocerebellar ataxia",9
+"OMIM:620174","Spinocerebellar ataxia 27B, late-onset",4,"Dominant spinocerebellar ataxia",9
+"Orphanet:101112","Spinocerebellar ataxia type 26",4,"Dominant spinocerebellar ataxia",9
+"Orphanet:1955","Spinocerebellar ataxia type 34",4,"Dominant spinocerebellar ataxia",9
+"OMIM:607346","Spinocerebellar ataxia 19",4,"Dominant spinocerebellar ataxia",8
+"Orphanet:98769","Spinocerebellar ataxia type 15/16",4,"Dominant spinocerebellar ataxia",8
+"OMIM:615945","Spinocerebellar ataxia 37",4,"Dominant spinocerebellar ataxia",7
+"OMIM:617770","Spinocerebellar ataxia 46",4,"Dominant spinocerebellar ataxia",7
+"Orphanet:211017","Spinocerebellar ataxia type 30",4,"Dominant spinocerebellar ataxia",6
+"OMIM:117210","Spinocerebellar ataxia 31",4,"Dominant spinocerebellar ataxia",5
+"OMIM:616410","Spinocerebellar ataxia 41",4,"Dominant spinocerebellar ataxia",5
+"OMIM:617769","Spinocerebellar ataxia 45",4,"Dominant spinocerebellar ataxia",5
+"OMIM:613371","Spinocerebellar ataxia 30",4,"Dominant spinocerebellar ataxia",4
+"Orphanet:98766","Spinocerebellar ataxia type 5",4,"Dominant spinocerebellar ataxia",4
+"OMIM:613909","Spinocerebellar ataxia 32",4,"Dominant spinocerebellar ataxia",3
+"Orphanet:458798","Spinocerebellar ataxia type 41",4,"Dominant spinocerebellar ataxia",3
+"OMIM:117360","Spinocerebellar ataxia 29, congenital nonprogressive",5,"Early-onset cerebellar ataxia",71
+"OMIM:614756","Cerebellar dysfunction with variable cognitive and behavioral abnormalities",5,"Early-onset cerebellar ataxia",27
+"Orphanet:94147","Spinocerebellar ataxia type 7",5,"Early-onset cerebellar ataxia",26
+"OMIM:620669","Neurodegeneration with brain iron accumulation 9",5,"Early-onset cerebellar ataxia",23
+"OMIM:617916","Neurodegeneration with brain iron accumulation 7",5,"Early-onset cerebellar ataxia",22
+"OMIM:620719","Neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism",5,"Early-onset cerebellar ataxia",21
+"Orphanet:314647","Non-progressive cerebellar ataxia with intellectual disability",5,"Early-onset cerebellar ataxia",20
+"OMIM:618087","Spinocerebellar ataxia 42, early-onset, severe, with neurodevelopmental deficits",5,"Early-onset cerebellar ataxia",19
+"Orphanet:208513","Spinocerebellar ataxia type 29",5,"Early-onset cerebellar ataxia",18
+"OMIM:600224","Spinocerebellar ataxia 5",5,"Early-onset cerebellar ataxia",17
+"OMIM:617691","Spinocerebellar ataxia 44",5,"Early-onset cerebellar ataxia",13
+"OMIM:617917","Neurodegeneration with brain iron accumulation 8",5,"Early-onset cerebellar ataxia",12
+"OMIM:612953","Parkinson disease 14, autosomal recessive",6,"Parkinsonism and dystonia-parkinsonism",31
+"Orphanet:157846","Neuroferritinopathy",6,"Parkinsonism and dystonia-parkinsonism",31
+"Orphanet:306674","Kufor-Rakeb syndrome",6,"Parkinsonism and dystonia-parkinsonism",31
+"Orphanet:199351","Adult-onset dystonia-parkinsonism",6,"Parkinsonism and dystonia-parkinsonism",28
+"OMIM:606693","Kufor-Rakeb syndrome",6,"Parkinsonism and dystonia-parkinsonism",23
+"Orphanet:48818","Aceruloplasminemia",6,"Parkinsonism and dystonia-parkinsonism",21
+"Orphanet:454887","Corticobasal syndrome",6,"Parkinsonism and dystonia-parkinsonism",18
+"Orphanet:97355","Caribbean parkinsonism",6,"Parkinsonism and dystonia-parkinsonism",18
+"Orphanet:314632","CLN12 disease",6,"Parkinsonism and dystonia-parkinsonism",17
+"Orphanet:98759","Spinocerebellar ataxia type 17",6,"Parkinsonism and dystonia-parkinsonism",17
+"Orphanet:401901","Huntington disease-like syndrome due to C9ORF72 expansions",6,"Parkinsonism and dystonia-parkinsonism",14
+"OMIM:125370","Dentatorubral-pallidoluysian atrophy",6,"Parkinsonism and dystonia-parkinsonism",10
+"OMIM:606159","Neurodegeneration with brain iron accumulation 3",6,"Parkinsonism and dystonia-parkinsonism",10
+"OMIM:600795","Frontotemporal dementia and/or amytrophic lateral sclerosis 7",6,"Parkinsonism and dystonia-parkinsonism",1
+"Orphanet:276244","Machado-Joseph disease type 3",7,"Machado-Joseph and related ataxia",36
+"Orphanet:276238","Machado-Joseph disease type 1",7,"Machado-Joseph and related ataxia",34
+"Orphanet:276241","Machado-Joseph disease type 2",7,"Machado-Joseph and related ataxia",34
+"OMIM:164400","Spinocerebellar ataxia 1",7,"Machado-Joseph and related ataxia",22
+"OMIM:164500","Spinocerebellar ataxia 7",7,"Machado-Joseph and related ataxia",18
+"Orphanet:98757","Spinocerebellar ataxia type 3",7,"Machado-Joseph and related ataxia",16
+"Orphanet:98765","Spinocerebellar ataxia type 4",7,"Machado-Joseph and related ataxia",11
+"Orphanet:98767","Spinocerebellar ataxia type 11",7,"Machado-Joseph and related ataxia",10
+"Orphanet:276183","Spinocerebellar ataxia type 32",7,"Machado-Joseph and related ataxia",4
+"OMIM:604802","Huntington disease-like 3",7,"Machado-Joseph and related ataxia",2
+"Orphanet:309271","Metachromatic leukodystrophy, adult form",8,"Leukodystrophy and neuropathy",42
+"Orphanet:309256","Metachromatic leukodystrophy, late infantile form",8,"Leukodystrophy and neuropathy",35
+"Orphanet:309263","Metachromatic leukodystrophy, juvenile form",8,"Leukodystrophy and neuropathy",35
+"Orphanet:139396","X-linked cerebral adrenoleukodystrophy",8,"Leukodystrophy and neuropathy",34
+"Orphanet:512","Metachromatic leukodystrophy",8,"Leukodystrophy and neuropathy",29
+"OMIM:601338","Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss",8,"Leukodystrophy and neuropathy",27
+"Orphanet:43","X-linked adrenoleukodystrophy",8,"Leukodystrophy and neuropathy",27
+"OMIM:300100","Adrenoleukodystrophy",8,"Leukodystrophy and neuropathy",21
+"Orphanet:139399","Adrenomyeloneuropathy",8,"Leukodystrophy and neuropathy",20
+"Orphanet:314404","Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome",8,"Leukodystrophy and neuropathy",20
+"OMIM:608703","Spinocerebellar ataxia 25",8,"Leukodystrophy and neuropathy",16
+"Orphanet:101111","Spinocerebellar ataxia type 25",8,"Leukodystrophy and neuropathy",16
+"Orphanet:157946","Huntington disease-like 3",8,"Leukodystrophy and neuropathy",16
+"OMIM:603472","Neuronal intranuclear inclusion disease",8,"Leukodystrophy and neuropathy",14
+"OMIM:614116","Neuropathy, hereditary sensory, type IE",8,"Leukodystrophy and neuropathy",13
+"Orphanet:2289","Neuronal intranuclear inclusion disease",8,"Leukodystrophy and neuropathy",13
+"OMIM:249900","Metachromatic leukodystrophy due to saposin B deficiency",8,"Leukodystrophy and neuropathy",12
+"OMIM:604121","Cerebellar ataxia, deafness, and narcolepsy, autosomal dominant",8,"Leukodystrophy and neuropathy",11
+"OMIM:608768","Spinocerebellar ataxia 8",8,"Leukodystrophy and neuropathy",3
+"OMIM:600223","Spinocerebellar ataxia 4",8,"Leukodystrophy and neuropathy",1

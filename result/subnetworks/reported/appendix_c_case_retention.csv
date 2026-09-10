@@ -1,0 +1,5 @@
+"tag","disease_id","annotations","profiles","retention_distance","retention_gromov"
+"cardiomyopathy_f3","OMIM:608758",15,15,1,1
+"leukodystrophy_f3","OMIM:601539",15,15,1,1
+"ciliopathy_f3","OMIM:618161",19,19,1,1
+"syndromic_craniosynostosis_f3","Orphanet:1515",20,20,1,1

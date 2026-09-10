@@ -1,0 +1,7 @@
+"ordering","profile","annotated_records","chain_ranks","mean_rank","support"
+"distance","Depression",29,"1/1/1",1,0.948777777777778
+"distance","Anxiety",12,"2/2/2",2,0.833666666666667
+"distance","Chorea",20,"3/3/5",3.66666666666667,0.721666666666667
+"gromov","Increased circulating lactate dehydrogenase concentration",4,"1/1/1",1,0.933444444444444
+"gromov","Acanthocytosis",5,"2/2/2",2,0.937222222222222
+"gromov","Anxiety",12,"3/3/3",3,0.931111111111111

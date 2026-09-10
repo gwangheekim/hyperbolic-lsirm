@@ -1,0 +1,7 @@
+"disease","ordering","profile","carriers","chain_ranks","mean_rank","support"
+"Joubert syndrome 35","distance","Ptosis",17,"1/1/1",1,0.942888888888889
+"Joubert syndrome 35","distance","Molar tooth sign on MRI",39,"2/2/2",2,0.938777777777778
+"Joubert syndrome 35","distance","Generalized hypotonia",19,"3/3/4",3.33333333333333,0.930666666666667
+"Joubert syndrome 35","gromov","Oculomotor apraxia",27,"1/1/1",1,0.991222222222222
+"Joubert syndrome 35","gromov","Ataxia",25,"2/2/2",2,0.986
+"Joubert syndrome 35","gromov","Molar tooth sign on MRI",39,"3/3/3",3,0.988555555555556

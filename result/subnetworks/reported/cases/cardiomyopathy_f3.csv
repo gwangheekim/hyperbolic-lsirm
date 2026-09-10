@@ -1,0 +1,7 @@
+"disease","ordering","profile","carriers","chain_ranks","mean_rank","support"
+"Cardiomyopathy, familial hypertrophic, 10","distance","Palpitations",25,"1/1/1",1,0.923333333333333
+"Cardiomyopathy, familial hypertrophic, 10","distance","Chest pain",13,"2/2/2",2,0.890666666666667
+"Cardiomyopathy, familial hypertrophic, 10","distance","Dyspnea",26,"3/3/5",3.66666666666667,0.808333333333333
+"Cardiomyopathy, familial hypertrophic, 10","gromov","Palpitations",25,"1/1/1",1,0.978222222222222
+"Cardiomyopathy, familial hypertrophic, 10","gromov","Chest pain",13,"2/2/2",2,0.941666666666667
+"Cardiomyopathy, familial hypertrophic, 10","gromov","Asymmetric septal hypertrophy",6,"3/3/3",3,0.854888888888889

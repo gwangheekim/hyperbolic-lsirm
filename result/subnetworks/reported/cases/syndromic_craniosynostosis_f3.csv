@@ -1,0 +1,7 @@
+"disease","ordering","profile","carriers","chain_ranks","mean_rank","support"
+"Cranioectodermal dysplasia","distance","Narrow chest",12,"1/1/1",1,0.856666666666667
+"Cranioectodermal dysplasia","distance","Joint hypermobility",9,"2/2/2",2,0.844444444444444
+"Cranioectodermal dysplasia","distance","Sparse hair",7,"3/4/3",3.33333333333333,0.811444444444444
+"Cranioectodermal dysplasia","gromov","Rhizomelia",7,"2/1/1",1.33333333333333,0.942888888888889
+"Cranioectodermal dysplasia","gromov","Sparse hair",7,"1/2/2",1.66666666666667,0.941222222222222
+"Cranioectodermal dysplasia","gromov","Joint hypermobility",9,"3/3/3",3,0.946888888888889
