@@ -54,9 +54,11 @@ CFG <- list(
   ## while leaving the likelihood and wrapped-normal target unchanged.
   RADIAL_ASIS = .env_flag("RADIAL_ASIS", TRUE),
   RADIAL_ASIS_JUMP = as.numeric(Sys.getenv("RADIAL_ASIS_JUMP", ".15")),
-  ## Keep FALSE for exact reproduction of the reported Section 5 simulation
-  ## results. Set POLAR_SPLIT=true only for a newly generated polar-sampler run.
-  POLAR_SPLIT = .env_flag("POLAR_SPLIT", FALSE),
+  ## Polar split replaces the joint tangent move with a fixed-radius angular
+  ## move, followed by the coupled radial move (Section 4.2). The reported
+  ## Section 5 results were generated with TRUE; POLAR_SPLIT=false selects the
+  ## joint-tangent sensitivity schedule.
+  POLAR_SPLIT = .env_flag("POLAR_SPLIT", TRUE),
 
   ## ---- embeddings for the distortion table: H^2 and R^2..R^5 ----
   ## tag -> (hyp, mdim = manifold dimension); engine ndim = mdim+1 (hyp) or mdim (euclid)

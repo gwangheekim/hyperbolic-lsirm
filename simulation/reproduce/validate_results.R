@@ -40,6 +40,10 @@ stopifnot(
   identical(
     cfg$RADIAL_ASIS_JUMP,
     as.numeric(Sys.getenv("RADIAL_ASIS_JUMP", ".15"))
+  ),
+  identical(
+    cfg$POLAR_SPLIT,
+    env_flag("POLAR_SPLIT", TRUE)
   )
 )
 rm(env_flag)
