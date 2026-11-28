@@ -54,7 +54,8 @@ if (!nzchar(Sys.getenv("SKIP_MATRIX_BUILD")) && all(file.exists(raw_files))) {
   annot$database_id <- sub("^ORPHA:", "Orphanet:", annot$database_id)
   annot <- annot[annot$database_id %in% disease_ids & annot$aspect == "P" &
                    annot$evidence %in% c("PCS", "TAS") &
-                   (is.na(annot$qualifier) | annot$qualifier != "NOT"),
+                   (is.na(annot$qualifier) | annot$qualifier != "NOT") &
+                   !grepl("^0/[0-9]+$", annot$frequency),   # OMIM "0/n": absent in all n patients, treated as NOT
                  c("database_id", "disease_name", "hpo_id")]
   dis_lab <- annot$disease_name[!duplicated(annot$database_id)]
   names(dis_lab) <- annot$database_id[!duplicated(annot$database_id)]
